@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suzzy-dszy 
+- 👋 Hi, I’m Sunay :)
 - 👀 I’m interested in web-development and videogames.
 - 🌱 I’m currently learning web-development.
 - 💞️ I’m looking to collaborate on small web projects that can help polish my skills.
